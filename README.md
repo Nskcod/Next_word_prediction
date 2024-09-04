@@ -24,6 +24,7 @@ Clone the repository:
 git clone https://github.com/yourusername/next-word-prediction.git
 
 Navigate to the project directory:
+
 cd next-word-prediction
 
 Install the required Python packages:
